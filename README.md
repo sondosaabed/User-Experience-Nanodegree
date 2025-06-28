@@ -17,7 +17,7 @@ Learned how to scope design problems, conduct qualitative user research (intervi
 
   📊 Research Reports & Sketching
 
-  📂 Project: UX Research Study (Link to project)[]
+  📂 Project: UX Research Study [Link to Reserach](https://github.com/sondosaabed/Arabic-Handwritten-Recognition-Data-Analysis)
     
 ### 🔧 Concept to Low-Fidelity Prototyping
 Translated research into functional design ideas, built rapid prototypes, and conducted usability tests using design sprints.
@@ -32,7 +32,7 @@ Translated research into functional design ideas, built rapid prototypes, and co
 
   🎯 Feature Prioritization
 
-  📂 Project: Low-Fidelity Rapid Prototyping Sprint (Link)[]
+  📂 Project: Low-Fidelity Rapid Prototyping Sprint [Board Link](https://miro.com/app/board/uXjVIxaFjdI=/?share_link_id=97222518590)
   
 ### 🎨 High-Fidelity Prototyping to Post-Launch Analysis
 Built high-fidelity designs in Figma, prepared assets for engineering, and evaluated product engagement using usability tests and KPIs.
@@ -47,7 +47,8 @@ Built high-fidelity designs in Figma, prepared assets for engineering, and evalu
 
   🤝 Engineering Handoff & Asset Prep
 
-  📂 Midterm: High-Fidelity Design & Iteration
+  📂 Midterm: High-Fidelity Design & Iteration [Project Link](https://github.com/sondosaabed/KhattTech-high-fedality-Midterm)
+  
   📂 Final: High-Fidelity Design & Iteration
   
 ### 🎓 Capstone: UX Portfolio & Case Study
