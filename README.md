@@ -60,7 +60,7 @@ Applied all learned skills to create a case study and build a UX portfolio demon
 
   🌐 Professional Presentation
 
-  📂 Project: UX Portfolio Case Study (Link)[]
+  📂 Project: UX Portfolio Case Study [Project Link](https://github.com/sondosaabed/Capstone-UX-Portfolio-Case-Study)
 
 ## Skills I've Learned
 
