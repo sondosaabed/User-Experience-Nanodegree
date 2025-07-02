@@ -49,7 +49,7 @@ Built high-fidelity designs in Figma, prepared assets for engineering, and evalu
 
   📂 Midterm: High-Fidelity Design & Iteration [Project Link](https://github.com/sondosaabed/KhattTech-high-fedality-Midterm)
   
-  📂 Final: High-Fidelity Design & Iteration
+  📂 Final: High-Fidelity Design & Iteration [Project Link](https://github.com/sondosaabed/KhattTech-High-Fidelity-Final)
   
 ### 🎓 Capstone: UX Portfolio & Case Study
 Applied all learned skills to create a case study and build a UX portfolio demonstrating research, design, and iteration.
