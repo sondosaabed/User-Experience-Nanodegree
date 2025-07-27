@@ -3,6 +3,9 @@ I acquired a full scholarship from Google Palestine Launchpad to study the funda
 
 The UX Fundamentals & Design Research program taught me the core principles of human-centered design, including how to scope design problems, conduct in-depth interviews, and create effective quantitative surveys. I gained hands-on experience in collecting and analyzing user research data to uncover meaningful opportunities, and I learned to apply psychology to design sketches while keeping the end user at the heart of the process.
 
+## Certificate 🥳
+<img width="1121" height="867" alt="User-Experinece-Nanodegree-certificate" src="https://github.com/user-attachments/assets/a4d29ef5-926a-4934-b850-ebf9cda47b91" />
+
 ## Courses I've Learned
 Each cours of the below included hands on projects with real-world scenarios:
 
